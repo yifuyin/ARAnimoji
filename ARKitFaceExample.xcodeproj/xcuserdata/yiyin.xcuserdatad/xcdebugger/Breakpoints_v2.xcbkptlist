@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7D352E33-EC69-48A5-B754-1D2C3B208717"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD25E13D-FEB5-4AB3-967C-B4C436B67DA1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARKitFaceExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
+            landmarkName = "renderer(_:didAdd:for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BD25E13D-FEB5-4AB3-967C-B4C436B67DA1 - aaa0eadb51e9d563"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in ARKitFaceExample.ViewController.renderer(_: __C.SCNSceneRenderer, didAdd: __C.SCNNode, for: __C.ARAnchor) -&gt; ()"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "BD25E13D-FEB5-4AB3-967C-B4C436B67DA1 - aaa0eadb51e9d39b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in ARKitFaceExample.ViewController.renderer(_: __C.SCNSceneRenderer, didAdd: __C.SCNNode, for: __C.ARAnchor) -&gt; ()"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DBD6F499-61D1-45AF-B91B-D029D99297B0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARKitFaceExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "192E08DA-4D2F-4607-84B8-A1C6D4F3D8E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARKitFaceExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "143"
+            endingLineNumber = "143"
+            landmarkName = "ViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB0B034D-09F4-4AF0-B71D-CE911C877385"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARKitFaceExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "renderer(_:didAdd:for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AB0B034D-09F4-4AF0-B71D-CE911C877385 - aaa0eadb51e9d47a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in ARKitFaceExample.ViewController.renderer(_: __C.SCNSceneRenderer, didAdd: __C.SCNNode, for: __C.ARAnchor) -&gt; ()"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "AB0B034D-09F4-4AF0-B71D-CE911C877385 - 2713aad2d3de497"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.ViewController.renderer(_: __C.SCNSceneRenderer, didAdd: __C.SCNNode, for: __C.ARAnchor) -&gt; ()"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "AB0B034D-09F4-4AF0-B71D-CE911C877385 - aaa0eadb51e9d39b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in ARKitFaceExample.ViewController.renderer(_: __C.SCNSceneRenderer, didAdd: __C.SCNNode, for: __C.ARAnchor) -&gt; ()"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57DD6391-B340-4621-9245-07BA844D03C7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARKitFaceExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "57DD6391-B340-4621-9245-07BA844D03C7 - 398804e929d29e8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "3072">
+               </Location>
+               <Location
+                  uuid = "57DD6391-B340-4621-9245-07BA844D03C7 - 398804e929d29e8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "2680">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FFB95F4-AD50-497B-A9B0-AB83ABFD423C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARKitFaceExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9FFB95F4-AD50-497B-A9B0-AB83ABFD423C - 398804e929d29ed5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "1836">
+               </Location>
+               <Location
+                  uuid = "9FFB95F4-AD50-497B-A9B0-AB83ABFD423C - 398804e929d29ef4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "1836">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "785B47A2-EFE4-4610-ABCF-81142A2E03CE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARKitFaceExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "785B47A2-EFE4-4610-ABCF-81142A2E03CE - 398804e929d29ef4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "2680">
+               </Location>
+               <Location
+                  uuid = "785B47A2-EFE4-4610-ABCF-81142A2E03CE - 398804e929d29ef4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "1836">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24983F04-5B33-4E3C-92A2-3161668948F8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARKitFaceExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "session(_:didFailWithError:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "24983F04-5B33-4E3C-92A2-3161668948F8 - 53461622949b4933"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.ViewController.session(_: __C.ARSession, didFailWithError: Swift.Error) -&gt; ()"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "1024">
+               </Location>
+               <Location
+                  uuid = "24983F04-5B33-4E3C-92A2-3161668948F8 - 1d96025c96cbf62e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.Optional&lt;Swift.String&gt; in ARKitFaceExample.ViewController.session(_: __C.ARSession, didFailWithError: Swift.Error) -&gt; ()"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6D60F49-537D-4BF9-95CD-EBCA1B5922B4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARKitFaceExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5A2D945-7820-401A-ACA2-EE1180414D35"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARKitFaceExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "displayErrorMessage(title:message:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "557FDE12-E28D-4F61-9C7B-26C9123393CA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARKitFaceExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "tabBar(_:didSelect:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "557FDE12-E28D-4F61-9C7B-26C9123393CA - 531d4249d3b23546"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.ViewController.tabBar(_: __C.UITabBar, didSelect: __C.UITabBarItem) -&gt; ()"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "557FDE12-E28D-4F61-9C7B-26C9123393CA - 531d4249d3b23546"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.ViewController.tabBar(_: __C.UITabBar, didSelect: __C.UITabBarItem) -&gt; ()"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E595604-0EEB-4B43-B8E6-00C146B6EBA4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARKitFaceExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "tabBar(_:didSelect:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0E595604-0EEB-4B43-B8E6-00C146B6EBA4 - 531d4249d3b23525"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.ViewController.tabBar(_: __C.UITabBar, didSelect: __C.UITabBarItem) -&gt; ()"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "137"
+                  endingLineNumber = "137"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "0E595604-0EEB-4B43-B8E6-00C146B6EBA4 - 531d4249d3b23525"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.ViewController.tabBar(_: __C.UITabBar, didSelect: __C.UITabBarItem) -&gt; ()"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "137"
+                  endingLineNumber = "137"
+                  offsetFromSymbolStart = "228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FCFB0506-332F-4940-B470-D811EDBA0EA4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARKitFaceExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "tabBar(_:didSelect:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FCFB0506-332F-4940-B470-D811EDBA0EA4 - 531d4249d3b23504"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.ViewController.tabBar(_: __C.UITabBar, didSelect: __C.UITabBarItem) -&gt; ()"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "FCFB0506-332F-4940-B470-D811EDBA0EA4 - 531d4249d3b23504"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.ViewController.tabBar(_: __C.UITabBar, didSelect: __C.UITabBarItem) -&gt; ()"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F78A4BE6-FD29-40ED-A22F-1D5875CC1528"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARKitFaceExample/Face Overlay Content/VirtualContent.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "makeController()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F78A4BE6-FD29-40ED-A22F-1D5875CC1528 - 195dcc7f07f4be9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.VirtualContentType.makeController() -&gt; ARKitFaceExample.VirtualContentController"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/Face%20Overlay%20Content/VirtualContent.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "F78A4BE6-FD29-40ED-A22F-1D5875CC1528 - 195dcc7f07f4be9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.VirtualContentType.makeController() -&gt; ARKitFaceExample.VirtualContentController"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/Face%20Overlay%20Content/VirtualContent.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30643EFC-2FE5-490F-B89D-71E4FA2BC795"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARKitFaceExample/Face Overlay Content/VirtualContent.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "makeController()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "30643EFC-2FE5-490F-B89D-71E4FA2BC795 - 195dcc7f07f4be9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.VirtualContentType.makeController() -&gt; ARKitFaceExample.VirtualContentController"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/Face%20Overlay%20Content/VirtualContent.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "30643EFC-2FE5-490F-B89D-71E4FA2BC795 - 195dcc7f07f4be9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.VirtualContentType.makeController() -&gt; ARKitFaceExample.VirtualContentController"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/Face%20Overlay%20Content/VirtualContent.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D85FF50-5155-46FC-8862-0A1234E888E2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARKitFaceExample/Face Overlay Content/VirtualContent.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "VirtualContentType"
+            landmarkType = "13">
+            <Locations>
+               <Location
+                  uuid = "6D85FF50-5155-46FC-8862-0A1234E888E2 - a92bd442d3621a71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.VirtualContentType.init(rawValue: Swift.Int) -&gt; Swift.Optional&lt;ARKitFaceExample.VirtualContentType&gt;"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/Face%20Overlay%20Content/VirtualContent.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "6D85FF50-5155-46FC-8862-0A1234E888E2 - 3b7f7477c33356a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.VirtualContentType.rawValue.getter : Swift.Int"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/Face%20Overlay%20Content/VirtualContent.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7720ACF-72F4-4765-A764-08054C75098A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARKitFaceExample/Face Overlay Content/VirtualContent.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "VirtualContentType"
+            landmarkType = "13">
+            <Locations>
+               <Location
+                  uuid = "F7720ACF-72F4-4765-A764-08054C75098A - a92bd442d3621a71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.VirtualContentType.init(rawValue: Swift.Int) -&gt; Swift.Optional&lt;ARKitFaceExample.VirtualContentType&gt;"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/Face%20Overlay%20Content/VirtualContent.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "F7720ACF-72F4-4765-A764-08054C75098A - 3b7f7477c33356a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.VirtualContentType.rawValue.getter : Swift.Int"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/TrackingAndVisualizingFaces/ARKitFaceExample/Face%20Overlay%20Content/VirtualContent.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A9118F5-2467-4BD4-A902-8EA2926BE2E5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARKitFaceExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
